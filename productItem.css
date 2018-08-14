@@ -1,0 +1,19 @@
+.productWrapper {
+display: flex;
+flex-direction: row;
+justify-content:space-between;
+align-items: center;
+margin-right: 30px;
+}
+
+.removeProduct {
+	text-align: center;
+	font-weight: bold;
+	width: 45px;
+	height: 45px;
+	margin-left: 20px;
+	color: darkred;
+	background-color: white;
+	border-color: tomato;
+	border-radius: 350px;
+}
